@@ -1,7 +1,7 @@
 [
   {
-    "id": "animation-folder",
-    "name": "Adult Animation & Anime",
+    "id": "adult-animation-folder",
+    "name": "Adult Animation",
     "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
