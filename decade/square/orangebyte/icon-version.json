@@ -12,7 +12,7 @@
     "mediaTypeFilter": "Movies Only",
     "iconName": "tv",
     "showIcon": false,
-    "nameDisplayMode": "Hiddenr",
+    "nameDisplayMode": "Hidden",
     "textSize": "Medium",
     "textWeight": "Bold"
   },
