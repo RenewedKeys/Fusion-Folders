@@ -100,5 +100,22 @@
     "nameDisplayMode": "Below Folder",
     "textSize": "Medium",
     "textWeight": "Bold"
-  }  
+  },  
+  {
+    "id": "blaxploitation-folder",
+    "name": "Blaxploitation",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Square",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://snipboard.io/nl9eFP.jpg",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  }
 ]
