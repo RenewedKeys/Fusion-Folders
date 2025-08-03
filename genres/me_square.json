@@ -1,7 +1,7 @@
 [
   {
-    "id": "adult-animation-folder",
-    "name": "Animation",
+    "id": "animation-folder",
+    "name": "Anime",
     "category": "Genres",
     "catalogIds": [],
     "displayMode": "Rows",
@@ -86,7 +86,7 @@
   },  
   {
     "id": "western-folder",
-    "name": "Westerns",
+    "name": "Western",
     "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
