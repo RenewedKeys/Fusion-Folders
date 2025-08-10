@@ -61,14 +61,15 @@
     "displayMode": "Rows",
     "layout": "Square",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://snipboard.io/V56A0O.jpg",
-    "logoURL": null,
+    "backgroundImageURL": null,
+    "logoURL": "https://snipboard.io/vUKkjC.jpg",
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
-    "showIcon": false,
-    "nameDisplayMode": "Below Folder",
+    "showIcon": true,
+    "nameDisplayMode": "Inside Folder",
     "textSize": "Medium",
-    "textWeight": "Bold"
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF"
   },
   {
     "id": "nature-folder",
