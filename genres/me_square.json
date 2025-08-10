@@ -10,11 +10,12 @@
     "backgroundImageURL": null,
     "logoURL": "https://snipboard.io/3qA1bM.jpg",
     "mediaTypeFilter": "All Content",
-    "iconName": "tv",
-    "showIcon": false,
+    "iconName": "folder.fill",
+    "showIcon": true,
     "nameDisplayMode": "Inside Folder",
     "textSize": "Large",
     "textWeight": "Bold"
+    "textColor": "#FFFFFF"
   },
   {
     "id": "blaxploitation-folder",
