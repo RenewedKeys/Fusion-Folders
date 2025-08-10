@@ -13,7 +13,7 @@
     "iconName": "tv",
     "showIcon": true,
     "nameDisplayMode": "Inside Folder",
-    "textSize": "Large",
+    "textSize": "Medium",
     "textWeight": "Bold",
     "textColor": "#FFFFFF"
   },
@@ -25,14 +25,15 @@
     "displayMode": "Grid",
     "layout": "Square",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://snipboard.io/jxKDvL.jpg",
-    "logoURL": null,
-    "mediaTypeFilter": "All Content",
+    "backgroundImageURL": null,
+    "logoURL": "https://snipboard.io/5CWAqI.jpg",
+    "mediaTypeFilter": "Movies Only",
     "iconName": "tv",
-    "showIcon": false,
-    "nameDisplayMode": "Below Folder",
+    "showIcon": true,
+    "nameDisplayMode": "Inside Folder",
     "textSize": "Medium",
-    "textWeight": "Bold"
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF"
   },
   {
     "id": "decades-folder",
