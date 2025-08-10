@@ -7,13 +7,13 @@
     "displayMode": "Rows",
     "layout": "Square",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://snipboard.io/rW8hmc.jpg",
-    "logoURL": null,
+    "backgroundImageURL": null,
+    "logoURL": "https://snipboard.io/3qA1bM.jpg",
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
     "showIcon": false,
-    "nameDisplayMode": "Below Folder",
-    "textSize": "Medium",
+    "nameDisplayMode": "Inside Folder",
+    "textSize": "Large",
     "textWeight": "Bold"
   },
   {
