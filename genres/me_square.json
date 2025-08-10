@@ -43,14 +43,15 @@
     "displayMode": "Rows",
     "layout": "Square",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://snipboard.io/6JK3iX.jpg",
-    "logoURL": null,
-    "mediaTypeFilter": "All Content",
+    "backgroundImageURL": null,
+    "logoURL": "https://snipboard.io/uKFNqH.jpg",
+    "mediaTypeFilter": "Movies Only",
     "iconName": "tv",
-    "showIcon": false,
-    "nameDisplayMode": "Below Folder",
+    "showIcon": true,
+    "nameDisplayMode": "Inside Folder",
     "textSize": "Medium",
-    "textWeight": "Bold"
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF"
   }, 
   {
     "id": "documentary-folder",
