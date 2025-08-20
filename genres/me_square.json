@@ -1,7 +1,7 @@
 [
   {
     "id": "animation-folder",
-    "name": "Anime",
+    "name": "Animation",
     "category": "Genres",
     "catalogIds": [],
     "displayMode": "Rows",
@@ -13,8 +13,8 @@
     "iconName": "tv",
     "showIcon": true,
     "nameDisplayMode": "Inside Folder",
-    "textSize": "Medium",
-    "textWeight": "Bold",
+    "textSize": "Small",
+    "textWeight": "Regular",
     "textColor": "#FFFFFF"
   },
   {
@@ -31,8 +31,8 @@
     "iconName": "tv",
     "showIcon": true,
     "nameDisplayMode": "Inside Folder",
-    "textSize": "Medium",
-    "textWeight": "Bold",
+    "textSize": "Small",
+    "textWeight": "Regular",
     "textColor": "#FFFFFF"
   },
   {
@@ -49,8 +49,8 @@
     "iconName": "tv",
     "showIcon": true,
     "nameDisplayMode": "Inside Folder",
-    "textSize": "Medium",
-    "textWeight": "Bold",
+    "textSize": "Small",
+    "textWeight": "Regular",
     "textColor": "#FFFFFF"
   }, 
   {
@@ -67,8 +67,8 @@
     "iconName": "tv",
     "showIcon": true,
     "nameDisplayMode": "Inside Folder",
-    "textSize": "Medium",
-    "textWeight": "Bold",
+    "textSize": "Small",
+    "textWeight": "Regular",
     "textColor": "#FFFFFF"
   },
   {
@@ -85,8 +85,8 @@
     "iconName": "tv",
     "showIcon": true,
     "nameDisplayMode": "Inside Folder",
-    "textSize": "Medium",
-    "textWeight": "Bold",
+    "textSize": "Small",
+    "textWeight": "Regular",
     "textColor": "#FFFFFF"
   },
   {
@@ -103,8 +103,8 @@
     "iconName": "tv",
     "showIcon": true,
     "nameDisplayMode": "Inside Folder",
-    "textSize": "Medium",
-    "textWeight": "Bold",
+    "textSize": "Small",
+    "textWeight": "Regular",
     "textColor": "#FFFFFF"
   },
   {
@@ -121,8 +121,8 @@
     "iconName": "tv",
     "showIcon": true,
     "nameDisplayMode": "Inside Folder",
-    "textSize": "Medium",
-    "textWeight": "Bold",
+    "textSize": "Small",
+    "textWeight": "Regular",
     "textColor": "#FFFFFF"
   }, 
   {
@@ -139,8 +139,8 @@
     "iconName": "tv",
     "showIcon": true,
     "nameDisplayMode": "Inside Folder",
-    "textSize": "Medium",
-    "textWeight": "Bold",
+    "textSize": "Small",
+    "textWeight": "Regular",
     "textColor": "#FFFFFF"
   }  
 ]
